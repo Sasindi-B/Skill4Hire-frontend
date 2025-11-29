@@ -1,3 +1,7 @@
+##for the deployed application
+https://skill4-hire-frontend-ez8f.vercel.app/
+
+
 # Skill4Hire-frontend
 
 Skill4Hire is a multi-tenant job marketplace that serves candidates, employers, and internal hiring teams from a single React application. This repository contains the entire frontend: shared authentication flows, role-specific dashboards, and the automation scripts we use to verify common job posting journeys.
