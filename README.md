@@ -1,4 +1,4 @@
-##for the deployed application
+## for the deployed application
 https://skill4-hire-frontend-ez8f.vercel.app/
 
 
